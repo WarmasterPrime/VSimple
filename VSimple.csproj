@@ -7,7 +7,7 @@
     <Description>Provides a package of of classes and extensions used to improve validity and manipulation of data.</Description>
     <PackageIcon>mut_icon.png</PackageIcon>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <PackageLicenseExpression>0BSD</PackageLicenseExpression>
+    <PackageLicenseExpression>BSD-2-Clause</PackageLicenseExpression>
     <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
   </PropertyGroup>
 
